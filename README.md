@@ -2,8 +2,7 @@ FCC Tic Tac Toe
 
 https://www.freecodecamp.org/challenges/build-a-tic-tac-toe-game
 
-TODO
-demo url, repo url
+Working demo: https://tberghuis.github.io/tic-tac-toe/
 
 User Story: I can play a game of Tic Tac Toe with the computer.
 
